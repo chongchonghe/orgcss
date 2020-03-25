@@ -2,7 +2,8 @@
 @import "htmlize";
 
 $sans: Helvetica, sans-serif;
-$serif: Georgia, serif;
+/* $serif: Georgia, serif; */
+$serif: Garamond, "Times New Roman", Times, serif;
 $monospace: Lucida Console, monospace;
 $code-size: 80%;
 $smaller: 90%;
